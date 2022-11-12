@@ -13,3 +13,15 @@ Manage Contact on Cloud using Spring Boot and Spring Security.
   - Easily view and delete the contacts.
 
 
+
+ # Dependencies
+  - spring-boot-starter-data-jpa
+  - spring-boot-starter-web
+  - spring-boot-starter-thymeleaf
+  - mysql-connector-java
+  - validation-api
+  - hibernate-validator
+  - spring-boot-starter-security
+  - spring-boot-devtools
+  - bootstrap
+
