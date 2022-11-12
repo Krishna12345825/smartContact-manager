@@ -25,3 +25,5 @@ Manage Contact on Cloud using Spring Boot and Spring Security.
   - spring-boot-devtools
   - bootstrap
 
+Home screen
+![](https://github.com/Krishna12345825/smartContact-manager/blob/master/images/image1.png)
