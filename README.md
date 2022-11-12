@@ -67,5 +67,5 @@ Single contact detail page
 ![](https://github.com/Krishna12345825/smartContact-manager/blob/master/images/image17.png)
 
 
-### THANK YOU
+# THANK YOU
 
